@@ -1,0 +1,40 @@
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Bot Application.dll.config
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Bot Application.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Bot Application.pdb
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Autofac.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Chronic.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Autofac.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application.dll
+C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application.pdb
