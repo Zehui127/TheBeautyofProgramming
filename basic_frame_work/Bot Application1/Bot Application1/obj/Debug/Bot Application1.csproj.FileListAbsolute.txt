@@ -38,3 +38,43 @@ C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\bin\
 C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
 C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application.dll
 C:\Users\zy18763.UNNC_CHINA\Documents\bot\Bot Application1\Bot Application1\obj\Debug\Bot Application.pdb
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Bot Application.dll.config
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Bot Application.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Bot Application.pdb
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Autofac.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Chronic.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Autofac.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\obj\Debug\Bot Application.dll
+C:\2017\theBeautyOfProgramming\TheBeautyofProgramming\basic_frame_work\Bot Application1\Bot Application1\obj\Debug\Bot Application.pdb

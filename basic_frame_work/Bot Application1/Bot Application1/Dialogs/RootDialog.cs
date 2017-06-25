@@ -63,7 +63,7 @@ namespace Bot_Application1.Dialogs
                 {
                     throw new Exception("Unable to deserialize QnA Maker response string.");
                 }
-                await context.PostAsync(response.Answer);
+                await context.PostAsync(response.Answer+response.Score);
             }
 
 
